@@ -1,0 +1,25 @@
+{
+  "name": "typograf.js",
+  "version": "1.0.1",
+  "description": "A lightweight JavaScript library for creating particles",
+  "homepage": "https://github.com/hcodes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nazirkulov/typograf.git"
+  },
+  "keywords": [
+    "typograf"
+  ],
+  "author": "Denis Seleznev",
+  "license": "MIT",
+  "files": [
+    "typograf.js",
+    "typograf.min.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Nazirkulov/typograf/issues"
+  }
+}

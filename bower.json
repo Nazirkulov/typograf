@@ -1,0 +1,19 @@
+{
+  "name": "typograf.js",
+  "main": "typograf.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/Nazirkulov/typograf",
+  "authors": [
+    "Denis Seleznev https://github.com/hcodes"
+  ],
+  "description": "typograf",
+  "keywords": [
+    "typograf"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
