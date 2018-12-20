@@ -1,6 +1,6 @@
 {
   "name": "typograf",
-  "main": "typograf.min.js",
+  "main": "typograf.js",
   "version": "1.0.1",
   "homepage": "https://github.com/Nazirkulov/typograf",
   "authors": [
